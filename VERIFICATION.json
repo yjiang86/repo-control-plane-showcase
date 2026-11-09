@@ -1,0 +1,54 @@
+{
+  "status": "PASS_WITH_PLATFORM_SKIPS",
+  "scope": "Selected standalone source sample only; full project and deployment not rerun",
+  "test_modules": [
+    {
+      "module": "test_devcheckpointctl",
+      "run": 18,
+      "passed": 18,
+      "failed": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "module": "test_leasectl",
+      "run": 63,
+      "passed": 57,
+      "failed": 0,
+      "errors": 0,
+      "skipped": 6
+    },
+    {
+      "module": "test_leasectl_linked",
+      "run": 30,
+      "passed": 30,
+      "failed": 0,
+      "errors": 0,
+      "skipped": 0
+    }
+  ],
+  "unique_methods_run": 111,
+  "passed": 105,
+  "skipped": 6,
+  "failed": 0,
+  "errors": 0,
+  "skip_reason": "Six original POSIX-specific cases skipped on Windows",
+  "initial_environment_failures_retained": true,
+  "environment_corrections": [
+    "Shortened test temporary paths after a Git filename-too-long error",
+    "Removed unnecessary empty-valued process-local Git configuration entries after Windows environment restoration dropped their values"
+  ],
+  "source_or_test_assertions_changed_for_environment": false,
+  "fixture_label_generalizations": 10,
+  "checkpoint_example": {
+    "status": "PASS",
+    "synthetic_only": true,
+    "HEAD_status_index_preserved": true,
+    "unrelated_staged_change_excluded": true,
+    "expected_subject_bound": true
+  },
+  "CLI_help_entrypoints_verified": 2,
+  "package_installation": "NOT_RUN; source-module entrypoints exercised",
+  "full_project_historical_counts": "Separate historical evidence; not results from this sample",
+  "model_provider_network_scientific_workloads": "NOT_RUN"
+}

@@ -1,0 +1,179 @@
+{
+  "source_release": "v0.1.0-dev.174",
+  "source_commit": "57a499159b40657db302ab68a2ce867563932a7c",
+  "original_history_imported": false,
+  "selected_files": [
+    {
+      "path": "tools/__init__.py",
+      "source_blob": "3af97ac5df86973799b13eb943e7d561fe6b64d3",
+      "source_sha256": "f5a7087e183031cbf1ee1c903a56a4407d26b325c7d18a95cf86826484da1f67",
+      "export_sha256": "f5a7087e183031cbf1ee1c903a56a4407d26b325c7d18a95cf86826484da1f67",
+      "source_bytes": 38,
+      "export_bytes": 38,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/frozenpatch.py",
+      "source_blob": "a941edb2f3af9f56337135d5a22eadc2216f49ad",
+      "source_sha256": "8b845ff401de27f4e5e4ed0129e09d9c6c6a5a86d2100dfc476d47c824d48229",
+      "export_sha256": "8b845ff401de27f4e5e4ed0129e09d9c6c6a5a86d2100dfc476d47c824d48229",
+      "source_bytes": 3000,
+      "export_bytes": 3000,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/leasectl/__init__.py",
+      "source_blob": "7c6b1e2887725a017b8912e1eaba7dc000e49242",
+      "source_sha256": "194084b29eb747dec591f92a25e9e0b83138e6bfd3c1c0e5c069de39284601e5",
+      "export_sha256": "194084b29eb747dec591f92a25e9e0b83138e6bfd3c1c0e5c069de39284601e5",
+      "source_bytes": 91,
+      "export_bytes": 91,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/leasectl/cli.py",
+      "source_blob": "cd7a2e45864fca7108bb4804de3db0b3c8e70853",
+      "source_sha256": "69fd0420dbda1a2c8dbb6a86c1bf7e83fb6410cb37f11b8653a3e267f4c3a471",
+      "export_sha256": "69fd0420dbda1a2c8dbb6a86c1bf7e83fb6410cb37f11b8653a3e267f4c3a471",
+      "source_bytes": 5785,
+      "export_bytes": 5785,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/leasectl/core.py",
+      "source_blob": "07e5ba48654b7918963eb2330b4c32479d597fb8",
+      "source_sha256": "b4cb2d2c181a18150ed5f213c096e1153998a197ad260155176138fa5188ee38",
+      "export_sha256": "b4cb2d2c181a18150ed5f213c096e1153998a197ad260155176138fa5188ee38",
+      "source_bytes": 47556,
+      "export_bytes": 47556,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/devcheckpointctl/__init__.py",
+      "source_blob": "91171f56443007d276edb9e8ec4e7789066d58fe",
+      "source_sha256": "8347ede9e22885cb35f0e780ba4a0cd307b06da65a5f7fbdd479934f69b28904",
+      "export_sha256": "8347ede9e22885cb35f0e780ba4a0cd307b06da65a5f7fbdd479934f69b28904",
+      "source_bytes": 86,
+      "export_bytes": 86,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/devcheckpointctl/__main__.py",
+      "source_blob": "a049ad7aea97f34e4aab96cc8d30e116fa89790d",
+      "source_sha256": "3d2438ae92f4746e9ffaa1f837b1fe803f6281091d1f31f8c95643716f257d9a",
+      "export_sha256": "3d2438ae92f4746e9ffaa1f837b1fe803f6281091d1f31f8c95643716f257d9a",
+      "source_bytes": 80,
+      "export_bytes": 80,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/devcheckpointctl/cli.py",
+      "source_blob": "78ddcd48f731d92287b37b50baca301555deedb4",
+      "source_sha256": "bfc0f9ff404559d4b5c55492b46f20f091c1a71009117755bb7d4cb936c2329f",
+      "export_sha256": "bfc0f9ff404559d4b5c55492b46f20f091c1a71009117755bb7d4cb936c2329f",
+      "source_bytes": 3516,
+      "export_bytes": 3516,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/devcheckpointctl/core.py",
+      "source_blob": "816ce2783af3cc1ed5063fb5b5ca167fa9b55d76",
+      "source_sha256": "63b9622d663c08b8604f5b8f2d91246faad8f96e018ac95cd0780455f65fe0c6",
+      "export_sha256": "63b9622d663c08b8604f5b8f2d91246faad8f96e018ac95cd0780455f65fe0c6",
+      "source_bytes": 41843,
+      "export_bytes": 41843,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tests/__init__.py",
+      "source_blob": "ff516acecc8ea3b41d0f2d62d27b7589bce62c51",
+      "source_sha256": "bb6c9265a84f2e05c23cab14be7710af94982854db736dda287e92e0f32788bc",
+      "export_sha256": "bb6c9265a84f2e05c23cab14be7710af94982854db736dda287e92e0f32788bc",
+      "source_bytes": 27,
+      "export_bytes": 27,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tests/contract_tests/__init__.py",
+      "source_blob": "14deaa5e17bef25bc8975a23bd638e159a2578f8",
+      "source_sha256": "50db9c7e8cb3435eda93162d3f75840722810aa2f2ced4be0b7c8f2e1da2986f",
+      "export_sha256": "50db9c7e8cb3435eda93162d3f75840722810aa2f2ced4be0b7c8f2e1da2986f",
+      "source_bytes": 22,
+      "export_bytes": 22,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tests/contract_tests/test_devcheckpointctl.py",
+      "source_blob": "27dc08552f0a01d9b3be05d69939fb71e973505e",
+      "source_sha256": "93566efc1a68501b48a67b64b2f0ed63b0b4d626a658d6a395e59b9bea37c796",
+      "export_sha256": "93566efc1a68501b48a67b64b2f0ed63b0b4d626a658d6a395e59b9bea37c796",
+      "source_bytes": 38319,
+      "export_bytes": 38319,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tests/contract_tests/test_leasectl.py",
+      "source_blob": "db3cc588da0326b643037edaf1c016fa412b6d43",
+      "source_sha256": "93fed511b4bf0408cdb522a2484a1ae1fee085f6f9b5ab41f798523ecd3f7943",
+      "export_sha256": "f4d92fcbb1237e1b819371bb001e6d700debc8ff4eedc7104dc70c0f79d21b99",
+      "source_bytes": 51895,
+      "export_bytes": 51935,
+      "fixture_label_generalizations": 10
+    },
+    {
+      "path": "tests/contract_tests/test_leasectl_linked.py",
+      "source_blob": "76486d43c62bc900c68ae8006533a24198689047",
+      "source_sha256": "2e73269ff811080cca47819ea53bf43ae6470c971234eaaf4c9e56c9a33ce34e",
+      "export_sha256": "2e73269ff811080cca47819ea53bf43ae6470c971234eaaf4c9e56c9a33ce34e",
+      "source_bytes": 35198,
+      "export_bytes": 35198,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "schemas/dynamic_write_lease.schema.json",
+      "source_blob": "9e1bf83108d3617383a7f8991fb574e6b7f5b005",
+      "source_sha256": "8a0ff12693842d97f767dd157c391384c89dd2b4be031f85cae5402d44053f54",
+      "export_sha256": "8a0ff12693842d97f767dd157c391384c89dd2b4be031f85cae5402d44053f54",
+      "source_bytes": 3121,
+      "export_bytes": 3121,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/adoptctl/__init__.py",
+      "source_blob": "49c746f23f21ce68609d831db57d9cf7180fee1d",
+      "source_sha256": "790c675cda39cce7bbc9663b4287e17498479bc047c69007225bea2b81c51623",
+      "export_sha256": "790c675cda39cce7bbc9663b4287e17498479bc047c69007225bea2b81c51623",
+      "source_bytes": 84,
+      "export_bytes": 84,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/adoptctl/core.py",
+      "source_blob": "72c4e8220cfaf6d761d86e8271197280daea01f8",
+      "source_sha256": "a0068bfdb16844e0b95f12cdf69f78e614dc1af2521e2c45ff44a0491867bdb7",
+      "export_sha256": "a0068bfdb16844e0b95f12cdf69f78e614dc1af2521e2c45ff44a0491867bdb7",
+      "source_bytes": 145252,
+      "export_bytes": 145252,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/topctl/__init__.py",
+      "source_blob": "dcfde55b1cbfb89d0493ba121949b644489ab885",
+      "source_sha256": "d3b53bf3d97d0b29ebffc7e88c9b3c6ad9d89cfd23231437f029adf52607d6b5",
+      "export_sha256": "d3b53bf3d97d0b29ebffc7e88c9b3c6ad9d89cfd23231437f029adf52607d6b5",
+      "source_bytes": 53,
+      "export_bytes": 53,
+      "fixture_label_generalizations": 0
+    },
+    {
+      "path": "tools/topctl/cli.py",
+      "source_blob": "c831e33f5cdde1877073f6664ec90d427a67d827",
+      "source_sha256": "5512113a4762a3a52b0f3d8847a4e5b13220422ea8f96e06b6f9cf0be58f5bdf",
+      "export_sha256": "5512113a4762a3a52b0f3d8847a4e5b13220422ea8f96e06b6f9cf0be58f5bdf",
+      "source_bytes": 21424,
+      "export_bytes": 21424,
+      "fixture_label_generalizations": 0
+    }
+  ],
+  "scope": "Two supported command entrypoints plus required original-test import dependencies; no deployment or account material"
+}
